@@ -113,13 +113,13 @@
 	- armstrong
 - pattern
 	- ```
-1  
-11  
-111   
-1001   
-11111  
-100001 
-	```
+		1  
+		11  
+		111   
+		1001   
+		11111  
+		100001 ```
+	- 
 - primes
 - divisors/ factors
 - combinatorics
