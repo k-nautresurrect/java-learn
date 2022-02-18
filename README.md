@@ -4,6 +4,9 @@
 - skeleton of java
 	- classes
 	- how classes compile
+- objects
+	- creating objects
+	- accessing properties
 - main
 	- the main method
 	- using imports
