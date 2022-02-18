@@ -29,6 +29,7 @@
 - ByteCode signature
 	- signature of any class
 	- next level of bytecode
+- using stack trace
 
 
 ## java architecture
