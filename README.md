@@ -134,3 +134,6 @@
 - combinatorics
 - counting
 - expresion vs coercion
+
+## Implementation
+- friend list
