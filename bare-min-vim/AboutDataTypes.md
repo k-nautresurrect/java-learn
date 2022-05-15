@@ -1,0 +1,12 @@
+# Integer type
+	- int is converted to Integer wrapper class type then equality is considered
+	- every primitive class is converted to the wrapper class
+	- Integer wrapper class object have some different properties while int does not inherit any method of Integer class.
+		- to perform operation on any primitive data type we have to pass it by calling the class name and method name in that particular class.
+		- eg: ``` Integer.floatValue(primitiveType)```
+		- whereas in wrapper class ``` wrapperObj.methodName() ```
+		- as the methods that can be applied on "Integer" wrapper class and "int" primitive class are different it is preferred to use primitive int instead of Integer wrapper class object.
+	- Some common Question on int data type.
+		- conversion from int to char, String, float, double.
+		- reverse, absolute reverse, tokeninze
+		- setting precisions.
